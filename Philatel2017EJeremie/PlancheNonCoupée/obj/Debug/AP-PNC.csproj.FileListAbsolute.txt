@@ -1,0 +1,22 @@
+C:\Users\Jérémie\Desktop\Méthodologie de la programmation\TP1\Partie 2\Philatel2017E\PlancheNonCoupée\bin\Debug\AP-PlancheNonCoupée.dll
+C:\Users\Jérémie\Desktop\Méthodologie de la programmation\TP1\Partie 2\Philatel2017E\PlancheNonCoupée\bin\Debug\AP-PlancheNonCoupée.pdb
+C:\Users\Jérémie\Desktop\Méthodologie de la programmation\TP1\Partie 2\Philatel2017E\PlancheNonCoupée\bin\Debug\Philatel.exe
+C:\Users\Jérémie\Desktop\Méthodologie de la programmation\TP1\Partie 2\Philatel2017E\PlancheNonCoupée\bin\Debug\UtilStJ.dll
+C:\Users\Jérémie\Desktop\Méthodologie de la programmation\TP1\Partie 2\Philatel2017E\PlancheNonCoupée\bin\Debug\Philatel.pdb
+C:\Users\Jérémie\Desktop\Méthodologie de la programmation\TP1\Partie 2\Philatel2017E\PlancheNonCoupée\bin\Debug\UtilStJ.xml
+C:\Users\Jérémie\Desktop\Méthodologie de la programmation\TP1\Partie 2\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PNC.csprojResolveAssemblyReference.cache
+C:\Users\Jérémie\Desktop\Méthodologie de la programmation\TP1\Partie 2\Philatel2017E\PlancheNonCoupée\obj\Debug\PhilatelPNC.DlgSaisiePNC.resources
+C:\Users\Jérémie\Desktop\Méthodologie de la programmation\TP1\Partie 2\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PNC.csproj.GenerateResource.Cache
+C:\Users\Jérémie\Desktop\Méthodologie de la programmation\TP1\Partie 2\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PlancheNonCoupée.dll
+C:\Users\Jérémie\Desktop\Méthodologie de la programmation\TP1\Partie 2\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PlancheNonCoupée.pdb
+C:\Users\Admin\Desktop\Philatel2017E\PlancheNonCoupée\bin\Debug\AP-PlancheNonCoupée.dll
+C:\Users\Admin\Desktop\Philatel2017E\PlancheNonCoupée\bin\Debug\AP-PlancheNonCoupée.pdb
+C:\Users\Admin\Desktop\Philatel2017E\PlancheNonCoupée\bin\Debug\Philatel.exe
+C:\Users\Admin\Desktop\Philatel2017E\PlancheNonCoupée\bin\Debug\UtilStJ.dll
+C:\Users\Admin\Desktop\Philatel2017E\PlancheNonCoupée\bin\Debug\Philatel.pdb
+C:\Users\Admin\Desktop\Philatel2017E\PlancheNonCoupée\bin\Debug\UtilStJ.xml
+C:\Users\Admin\Desktop\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PNC.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Philatel2017E\PlancheNonCoupée\obj\Debug\PhilatelPNC.DlgSaisiePNC.resources
+C:\Users\Admin\Desktop\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PNC.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PlancheNonCoupée.dll
+C:\Users\Admin\Desktop\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PlancheNonCoupée.pdb

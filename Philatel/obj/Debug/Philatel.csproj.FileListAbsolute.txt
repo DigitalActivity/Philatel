@@ -1,0 +1,30 @@
+F:\BureauFolder\Philatel2017E\Philatel\bin\Debug\Philatel.exe.config
+F:\BureauFolder\Philatel2017E\Philatel\bin\Debug\Philatel.exe
+F:\BureauFolder\Philatel2017E\Philatel\bin\Debug\Philatel.pdb
+F:\BureauFolder\Philatel2017E\Philatel\bin\Debug\UtilStJ.dll
+F:\BureauFolder\Philatel2017E\Philatel\bin\Debug\UtilStJ.xml
+F:\BureauFolder\Philatel2017E\Philatel\obj\Debug\Philatel.csprojResolveAssemblyReference.cache
+F:\BureauFolder\Philatel2017E\Philatel\obj\Debug\Philatel.DlgÀPropos.resources
+F:\BureauFolder\Philatel2017E\Philatel\obj\Debug\Philatel.DlgSaisieArticle.resources
+F:\BureauFolder\Philatel2017E\Philatel\obj\Debug\Philatel.DlgSaisieBlocDeCoin.resources
+F:\BureauFolder\Philatel2017E\Philatel\obj\Debug\Philatel.DlgSaisieTimbreSeul.resources
+F:\BureauFolder\Philatel2017E\Philatel\obj\Debug\Philatel.FormPrincipal.resources
+F:\BureauFolder\Philatel2017E\Philatel\obj\Debug\Philatel.Properties.Resources.resources
+F:\BureauFolder\Philatel2017E\Philatel\obj\Debug\Philatel.csproj.GenerateResource.Cache
+F:\BureauFolder\Philatel2017E\Philatel\obj\Debug\Philatel.exe
+F:\BureauFolder\Philatel2017E\Philatel\obj\Debug\Philatel.pdb
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\bin\Debug\Philatel.exe.config
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\bin\Debug\Philatel.exe
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\bin\Debug\Philatel.pdb
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\bin\Debug\UtilStJ.dll
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\bin\Debug\UtilStJ.xml
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\obj\Debug\Philatel.csprojResolveAssemblyReference.cache
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\obj\Debug\Philatel.DlgÀPropos.resources
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\obj\Debug\Philatel.DlgSaisieArticle.resources
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\obj\Debug\Philatel.DlgSaisieBlocDeCoin.resources
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\obj\Debug\Philatel.DlgSaisieTimbreSeul.resources
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\obj\Debug\Philatel.FormPrincipal.resources
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\obj\Debug\Philatel.Properties.Resources.resources
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\obj\Debug\Philatel.csproj.GenerateResource.Cache
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\obj\Debug\Philatel.exe
+E:\Younes\Cegep 2017\CEGEP2017H\MM Méthodologies de programmation\Remises\FortinJeremie_RabdiYounes_Philatel2017E\Philatel2017D (avec les outils bd)\Philatel\obj\Debug\Philatel.pdb

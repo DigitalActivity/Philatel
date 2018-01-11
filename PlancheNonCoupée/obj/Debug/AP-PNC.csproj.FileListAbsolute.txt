@@ -1,0 +1,11 @@
+F:\BureauFolder\Philatel2017E\PlancheNonCoupée\bin\Debug\AP-PlancheNonCoupée.dll
+F:\BureauFolder\Philatel2017E\PlancheNonCoupée\bin\Debug\AP-PlancheNonCoupée.pdb
+F:\BureauFolder\Philatel2017E\PlancheNonCoupée\bin\Debug\Philatel.exe
+F:\BureauFolder\Philatel2017E\PlancheNonCoupée\bin\Debug\UtilStJ.dll
+F:\BureauFolder\Philatel2017E\PlancheNonCoupée\bin\Debug\Philatel.pdb
+F:\BureauFolder\Philatel2017E\PlancheNonCoupée\bin\Debug\UtilStJ.xml
+F:\BureauFolder\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PNC.csprojResolveAssemblyReference.cache
+F:\BureauFolder\Philatel2017E\PlancheNonCoupée\obj\Debug\PhilatelPNC.DlgSaisiePNC.resources
+F:\BureauFolder\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PNC.csproj.GenerateResource.Cache
+F:\BureauFolder\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PlancheNonCoupée.dll
+F:\BureauFolder\Philatel2017E\PlancheNonCoupée\obj\Debug\AP-PlancheNonCoupée.pdb

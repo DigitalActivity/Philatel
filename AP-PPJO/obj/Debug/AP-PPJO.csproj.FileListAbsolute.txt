@@ -1,0 +1,11 @@
+F:\BureauFolder\Philatel2017E\AP-PPJO\bin\Debug\AP-PPJO.dll
+F:\BureauFolder\Philatel2017E\AP-PPJO\bin\Debug\AP-PPJO.pdb
+F:\BureauFolder\Philatel2017E\AP-PPJO\bin\Debug\Philatel.exe
+F:\BureauFolder\Philatel2017E\AP-PPJO\bin\Debug\UtilStJ.dll
+F:\BureauFolder\Philatel2017E\AP-PPJO\bin\Debug\Philatel.pdb
+F:\BureauFolder\Philatel2017E\AP-PPJO\bin\Debug\UtilStJ.xml
+F:\BureauFolder\Philatel2017E\AP-PPJO\obj\Debug\AP-PPJO.csprojResolveAssemblyReference.cache
+F:\BureauFolder\Philatel2017E\AP-PPJO\obj\Debug\PhilatelPPJO.DlgSaisiePPJO.resources
+F:\BureauFolder\Philatel2017E\AP-PPJO\obj\Debug\AP-PPJO.csproj.GenerateResource.Cache
+F:\BureauFolder\Philatel2017E\AP-PPJO\obj\Debug\AP-PPJO.dll
+F:\BureauFolder\Philatel2017E\AP-PPJO\obj\Debug\AP-PPJO.pdb
