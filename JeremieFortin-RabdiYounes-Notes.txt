@@ -1,9 +1,0 @@
-- Toutes les etapes sont jusqu'à D sont faites au complet
-- L'etape E : On reussi à connecter une base de données et y Ajouter les colonnes selon
-chaque fabrique d'article philatelique. Puis inserer les articles ajoutés.
-
-Chaque type d'article charge le sql pour Lire et Ecrire son type dans la base des données.
-Les articles se font serialiser (Ajouts / Retraits) dans le document ainsi que dans la bd
-(Les commandes annuler/retablir sont prises en compte mais ne sont pas enregistrés dans la bd)
-
-Le program continu a fonctionner avec document. 
